@@ -13,7 +13,7 @@
 				<img src="../assets/about.jpg" alt="">
 			</div>
             <div class="menu-name">
-                <h2>Rômulo Rodrigues</h2>
+                <h2>John Doe</h2>
                 <div class="menu-name-social-icons">
                     <a href="">
                         <i class="fa fa-facebook"></i>
